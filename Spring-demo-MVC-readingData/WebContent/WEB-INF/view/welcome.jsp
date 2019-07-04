@@ -7,6 +7,6 @@
 </head>
 <body>
 <h2>Welcome my new page</h2>
-<a href="showform"> For Registration</a>
+<a href="hello/showform"> For Registration</a>
 </body>
 </html>

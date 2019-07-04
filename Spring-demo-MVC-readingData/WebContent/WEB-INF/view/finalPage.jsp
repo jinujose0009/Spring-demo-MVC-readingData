@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Process Form</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h3>Student Name :${param.stuName }</h3>
-<br>
- ${message}
+
 </body>
 </html>

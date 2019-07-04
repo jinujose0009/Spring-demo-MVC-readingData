@@ -7,7 +7,7 @@
 <body>
        <h2>Welcome to the Spring MVC</h2>
        <br>
-       <form action="processForm"  method="post">
+       <form action="hello/processDataV1"  method="get">
        <input type="text" name="stuName" placeholder="What's your name"/>
        <input type="submit" value="Save">
        </form>
